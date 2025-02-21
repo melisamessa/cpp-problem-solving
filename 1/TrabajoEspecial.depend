@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1604497649 source:c:\users\tomy\desktop\análisis y diseño de algoritmos i\proyectos\trabajoespecial\src\libro.cpp
+	"Libro.h"
+
+1604080563 c:\users\tomy\desktop\análisis y diseño de algoritmos i\proyectos\trabajoespecial\include\libro.h
+	<iostream>
+	"cstring"
+	<stdio.h>
+	"Lista.h"
+
+1604496038 c:\users\tomy\desktop\análisis y diseño de algoritmos i\proyectos\trabajoespecial\include\lista.h
+	<iostream>
+	"cstring"
+	<stdio.h>
+
+1604497711 source:c:\users\tomy\desktop\análisis y diseño de algoritmos i\proyectos\trabajoespecial\src\lista.cpp
+	"Lista.h"
+	<cstddef>
+	"Libro.h"
+
+1604616449 source:c:\users\tomy\desktop\análisis y diseño de algoritmos i\proyectos\trabajoespecial\src\coleccionlibros.cpp
+	"ColeccionLibros.h"
+	"Lista.h"
+
+1604497636 c:\users\tomy\desktop\análisis y diseño de algoritmos i\proyectos\trabajoespecial\include\coleccionlibros.h
+	"Libro.h"
+	"Lista.h"
+
+1604526775 source:c:\users\tomy\desktop\análisis y diseño de algoritmos i\proyectos\trabajoespecial\main.cpp
+	<iostream>
+	<fstream>
+	<clocale>
+	"ColeccionLibros.h"
+	"Libro.h"
+

@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1566394313 source:c:\users\federico\documents\unicen\algoritmos ii\laboratorio\01_interfaz_grafo\grafo\main.cpp
+	"Grafo.h"
+	"iostream"
+
+1566395342 c:\users\federico\documents\unicen\algoritmos ii\laboratorio\01_interfaz_grafo\grafo\grafo.h
+	<list>
+	<set>
+	<map>
+	<queue>
+	<vector>
+
+1566395359 source:c:\users\federico\documents\unicen\algoritmos ii\material\02_grafo\main.cpp
+	"Grafo.h"
+	"iostream"
+
+1598390887 c:\users\federico\documents\unicen\algoritmos ii\material\02_grafo\grafo.h
+	<list>
+	<set>
+	<map>
+	<queue>
+	<vector>
+
+1621013040 source:c:\users\usuario\desktop\facultad de ciencias exactas\tercer aÑo\primer cuatrimestre\analisis y diseño de algoritmos ii\laboratorio\codeblock\grafo\main.cpp
+	"Grafo.h"
+	"iostream"
+
+1621013300 c:\users\usuario\desktop\facultad de ciencias exactas\tercer aÑo\primer cuatrimestre\analisis y diseño de algoritmos ii\laboratorio\codeblock\grafo\grafo.h
+	<list>
+	<set>
+	<map>
+	<queue>
+	<vector>
+	<iostream>
+
+1621013040 source:c:\users\usuario\desktop\facultad de ciencias exactas\tercer aÑo\primer cuatrimestre\analisis y diseño de algoritmos ii\laboratorio\codeblock\tpe-1_grafo\main.cpp
+	"Grafo.h"
+	"iostream"
+
+1621013300 c:\users\usuario\desktop\facultad de ciencias exactas\tercer aÑo\primer cuatrimestre\analisis y diseño de algoritmos ii\laboratorio\codeblock\tpe-1_grafo\grafo.h
+	<list>
+	<set>
+	<map>
+	<queue>
+	<vector>
+	<iostream>
+
+1624643773 source:c:\users\usuario\desktop\facultad de ciencias exactas\tercer aÑo\primer cuatrimestre\analisis y diseño de algoritmos ii\laboratorio\codeblock\tpe3_messamelisa\grafo\main.cpp
+	"Grafo.h"
+	<set>
+	<string>
+	"iostream"
+
+1624375408 c:\users\usuario\desktop\facultad de ciencias exactas\tercer aÑo\primer cuatrimestre\analisis y diseño de algoritmos ii\laboratorio\codeblock\tpe3_messamelisa\grafo\grafo.h
+	<list>
+	<set>
+	<map>
+	<queue>
+	<vector>
+	<iostream>
+

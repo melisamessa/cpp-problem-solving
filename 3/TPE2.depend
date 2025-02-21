@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1623785605 source:c:\users\usuario\desktop\trabajo practico especial backtracking\tpe2-messa_muñoz-b mejoroopcion\tpe2\src\equipo.cpp
+	"Equipo.h"
+	<ostream>
+	<vector>
+	<cassert>
+
+1623785605 c:\users\usuario\desktop\trabajo practico especial backtracking\tpe2-messa_muñoz-b mejoroopcion\tpe2\include\equipo.h
+	<iostream>
+	<ostream>
+	<vector>
+
+1623798018 source:c:\users\usuario\desktop\trabajo practico especial backtracking\tpe2-messa_muñoz-b mejoroopcion\tpe2\main.cpp
+	<iostream>
+	<ostream>
+	<fstream>
+	<list>
+	"Equipo.h"
+
+1623799450 source:c:\users\usuario\desktop\trabajo practico especial backtracking\tpe2-messa_muñoz-b mejoroopcion\tpe2-messa_muñoz-b\main.cpp
+	<iostream>
+	<ostream>
+	<fstream>
+	<list>
+	"Equipo.h"
+
+1623785605 c:\users\usuario\desktop\trabajo practico especial backtracking\tpe2-messa_muñoz-b mejoroopcion\tpe2-messa_muñoz-b\include\equipo.h
+	<iostream>
+	<ostream>
+	<vector>
+
+1623785605 source:c:\users\usuario\desktop\trabajo practico especial backtracking\tpe2-messa_muñoz-b mejoroopcion\tpe2-messa_muñoz-b\src\equipo.cpp
+	"Equipo.h"
+	<ostream>
+	<vector>
+	<cassert>
+
